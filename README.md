@@ -11,7 +11,7 @@ All our favorite recipes in one place
 *Coming soon*
 
 ## Main Dishes
-*Coming soon*
+- [Thai Basil Beef and Lemongrass Rice Bowls](dinners/thai-basil-beef-lemongrass-rice-bowls.md)
 
 ## Sides
 *Coming soon*
