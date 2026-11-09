@@ -4,10 +4,13 @@ All our favorite recipes in one place
 ## Breakfast & Brunch
 *Coming soon*
 
-## Main Dishes
+## Salads
 *Coming soon*
 
 ## Soups
+*Coming soon*
+
+## Main Dishes
 *Coming soon*
 
 ## Sides
