@@ -8,7 +8,7 @@ All our favorite recipes in one place
 *Coming soon*
 
 ## Soups
-*Coming soon*
+- [Carrot Ginger Soup](soups/carrot-ginger-soup.md)
 
 ## Main Dishes
 - [Thai Basil Beef and Lemongrass Rice Bowls](dinners/thai-basil-beef-lemongrass-rice-bowls.md)
