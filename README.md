@@ -1,6 +1,7 @@
 # Danes-Family-Cookbook
 All our favorite recipes in one place
 
+<!-- RECIPES-START -->
 ## Breakfast & Brunch
 *Coming soon*
 
@@ -18,3 +19,6 @@ All our favorite recipes in one place
 
 ## Desserts
 - [Rocky Mountain Chocolate Chip Cookies](desserts/rocky-mountain-chocolate-chip-cookies.md)
+
+
+<!-- RECIPES-END -->
