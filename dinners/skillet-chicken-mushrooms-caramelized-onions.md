@@ -7,7 +7,7 @@
 
 ### Marinade
 - 2 tablespoons olive oil (plus 3 tablespoons more for cooking, below)
-- 2 tablespoons sherry vinegar (plus 2 teaspoons more to finish, below)
+- 2 tablespoons red wine vinegar (plus 2 teaspoons more to finish, below)
 - 2 teaspoons honey
 - 1 teaspoon Dijon mustard
 - 1/4 teaspoon red-pepper flakes
@@ -19,7 +19,7 @@
 - 2 medium yellow onions, thinly sliced (about 4 cups)
 - 3/4 pound cremini mushrooms, stems removed, thinly sliced (about 4 cups)
 - 3 tablespoons olive oil
-- 2 teaspoons sherry vinegar
+- 2 teaspoons red wine vinegar
 
 ### To Finish
 - 1/2 cup fresh flat-leaf parsley or dill, roughly chopped
@@ -40,3 +40,4 @@
 - For something green, stir in spinach at the end to wilt, or serve with a green salad or roasted broccoli.
 - Shredded chicken over buttered noodles is a great way to serve it.
 - Reader tips: try 1/4 cup wine instead of the sherry vinegar for a richer flavor, or use half the chicken with double the onions and mushrooms.
+- The original recipe calls for Sherry Vinegar, I like to use Red Wine Vinegar
