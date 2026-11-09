@@ -6,6 +6,7 @@ All our favorite recipes in one place
 - [Rocky Mountain Chocolate Chip Cookies](desserts/rocky-mountain-chocolate-chip-cookies.md)
 
 ## Dinners
+- [Skillet Chicken With Mushrooms and Caramelized Onions](dinners/skillet-chicken-mushrooms-caramelized-onions.md)
 - [Thai Basil Beef and Lemongrass Rice Bowls](dinners/thai-basil-beef-lemongrass-rice-bowls.md)
 
 ## Salads
