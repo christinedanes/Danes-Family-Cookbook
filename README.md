@@ -9,6 +9,7 @@ All our favorite recipes in one place
 ## Dinners
 - [Naked Chicken Tenders](dinners/naked-chicken-tenders.md)
 - [Skillet Chicken With Mushrooms and Caramelized Onions](dinners/skillet-chicken-mushrooms-caramelized-onions.md)
+- [Sweet Potato Burger Bowls](dinners/sweet-potato-burger-bowls.md)
 - [Thai Basil Beef and Lemongrass Rice Bowls](dinners/thai-basil-beef-lemongrass-rice-bowls.md)
 
 ## Salads
