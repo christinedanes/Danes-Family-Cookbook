@@ -7,6 +7,7 @@ All our favorite recipes in one place
 - [Thick and Chewy M&M Cookie Bars](desserts/thick-and-chewy-mm-cookie-bars.md)
 
 ## Dinners
+- [Naked Chicken Tenders](dinners/naked-chicken-tenders.md)
 - [Skillet Chicken With Mushrooms and Caramelized Onions](dinners/skillet-chicken-mushrooms-caramelized-onions.md)
 - [Thai Basil Beef and Lemongrass Rice Bowls](dinners/thai-basil-beef-lemongrass-rice-bowls.md)
 
